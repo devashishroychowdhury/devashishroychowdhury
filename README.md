@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devashish Roy Chowdhury</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **React, Next, Node**
+- 🌱 I’m currently building projects on **React, Next, Node**
+
+- 😄Looking for internship in webapplication domain 
 
 - 👨‍💻 All of my projects are available at [https://github.com/devashishroychowdhury?tab=repositories](https://github.com/devashishroychowdhury?tab=repositories)
 
